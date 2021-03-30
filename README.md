@@ -1,0 +1,1 @@
+Proyecto para asistir en la enseñanza de lectura aprendizaje. Consiste en una cantidad de botones etiquetados con letras y sílabas que al pulsarlos pronunciarán la letra o sílaba indicada en el botón
